@@ -4,8 +4,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 from spotipy.oauth2 import SpotifyClientCredentials
 
-SPOTIFY_ID = "40af1c79af3841689a8d380dd117df5e"
-SPOTIFY_SECRET = "74a39da0fcd14c0eb90a07ab9fcc740c"
+SPOTIFY_ID = "##############################"
+SPOTIFY_SECRET = "##############################"
 URL_REDIRECT = "https://example.com"
 
 spotify = spotipy.oauth2.SpotifyOAuth(
